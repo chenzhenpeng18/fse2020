@@ -10,6 +10,7 @@ Please consider citing the following paper when using our data.
 @inproceedings{chencaofse2020,
   title={A Comprehensive Study on Challenges in Deploying Deep Learning Based Software},
   author={Zhenpeng Chen and Yanbin Cao and Yuanqiang Liu and Haoyu Wang and Tao Xie and Xuanzhe Liu},
-  booktitle={Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  booktitle={Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2020},
+  pages={750--762},
   year={2020}
 }
